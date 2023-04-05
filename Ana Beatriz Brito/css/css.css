@@ -1,0 +1,229 @@
+@font-face {
+    font-family: Thank you;
+    src: url(../fontes/Thank\ you.ttf);}
+
+    body {text-align: center;}
+
+    h1{width: 20px; 
+        height: 200px; 
+        font-family: thank you; 
+        font-size: 30px; 
+        color: rgb(0, 0, 0) ; }
+
+    .perfil {width: 600px;position: relative;left: 35%;top: 250px;}
+
+    .logo{position: absolute; top: 70px; left: 20px; }
+ 
+
+    .botao a {background-color: #771612;font-family: 'Times New Roman', Times, italic; color: white;font-size: 35px;padding-left: 20px;padding-right: 20px;}
+    .botao {background-color: #D41116; padding: 25px; position: absolute; width: 100%;height: 17px; top: 10px;}
+    button{font-size: 20px; background-color: aliceblue; font-family:thank you; color: rgb(122, 11, 11);}
+
+    h3 {color: rgb(0, 0, 0);
+        font-family: Thank you;padding-bottom: 40px;
+        font-size: 30px;
+        text-align: center;
+        position: relative;
+        top: 130px;}
+
+    h5 {color: rgb(0, 0, 0);
+        font-family: Thank you;
+        font-size: 30px;
+        text-align: center;
+        position: relative;
+        top: 270px}
+      
+
+
+    p {font-family: 'Times New Roman', Times, italic; left: 20%;position: relative;
+        color: black; 
+        width:900px;
+        line-height: 30px;
+        top: 200px;
+        left: 500px;}
+
+        
+       .rodape {background-color: #D41116;position: absolute;bottom: 0px;
+            font-family: 'Times New Roman', Times, serif; width: 100%;
+            font-size: 15px; 
+            padding: 10px;
+            text-align: center;}
+
+            .imagens {
+            position: relative;
+            bottom: -100px;
+            }
+
+            .sapataria{width: 250px;
+            background-color: #D41116;padding-left: 25px;padding-right: 25px;
+            position: relative;
+            left: -250px;}
+
+            .sabrina{width: 250px;
+            background-color: #D41116;padding-left: 20px;padding-right: 25px;
+            position: relative;
+            left: -25px;}
+
+            .post{width: 250px;
+            background-color: #D41116;padding-left: 25px;padding-right: 25px;
+            position: relative;
+            left: 100px;}
+
+    .tsapataria{width: 300px;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: 60px;
+    left: 210px;}
+
+    .tsabrina{width: 300px;
+     font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: -50px;
+    left: 727px;}
+
+    .tpost{width: 300px;
+    font-size: 15px;
+    text-align: center;
+    position: relative;
+    top: -220px;
+    left: 1150px;}
+
+    h6 {color: rgb(0, 0, 0);
+        font-family: Thank you;
+        font-size: 20px;
+        text-align: center;
+        position: relative;
+        top: 270px}
+
+        .imagenseditorial {
+            position: relative;
+            bottom: -100px;
+            }
+
+            .calendario{width: 250px;
+                background-color: #D41116;
+                position: relative;
+                left: -250px;}
+
+            .folder{width: 250px;
+            background-color: #D41116;
+            position: relative;
+            left: -110px;}
+
+            .capa{width: 250px;
+                background-color: #D41116;
+                position: relative;
+                left: -10px;}
+
+            .cartaz{width: 250px;
+             background-color: #D41116;
+             position: relative;
+            left: 50px;}
+
+            .tcalendario{width: 300px;
+                font-size: 15px;
+                text-align: center;
+                position: relative;
+                top: 70px;
+                left: 110px;}
+
+                .tfolder{width: 300px;
+                    font-size: 15px;
+                   text-align: center;
+                   position: relative;
+                   top: -20px;
+                   left: 455px;}
+
+                .tcapa{width: 300px;
+                font-size: 15px;
+                text-align: center;
+                position: relative;
+                top: -140px;
+                left: 830px;}
+
+
+                .trevista{width: 300px;
+                    font-size: 15px;
+                    text-align: center;
+                    position: relative;
+                    top: -280px;
+                    left: 1290px;}
+
+
+                    .imagensembalagem {
+                        position: relative;
+                        bottom: -100px;}
+
+
+                    .cookies{width: 250px;}
+                    .proteinveg{width: 250px;}
+                    .cha{width: 250px;}
+
+                    .tcookies{width: 300px;
+                            font-size: 15px;
+                        text-align: center;}
+
+                            .tproteinveg {width: 300px;
+                                font-size: 15px;
+                               text-align: center;
+                               top: -50px;
+                               left: 800px;}
+               
+
+                            .tcha{width: 300px;
+                                font-size: 15px;
+                               text-align: center;
+                               top: -50px;
+                               left: 900px;}
+
+            .break {position: absolute;top: 300px;left: 1300px;width: 400px;text-align: center;}
+            .kids {position: absolute;top: 300px;left: 700px;width: 400px;text-align: center;}
+            .dobem {position: absolute;top: 300px;left: 120px;text-align: center;width: 400px; font-family: 'Times New Roman', Times, serif;}
+
+            .videos{position: relative;
+            top: 100px;}
+
+            .perfil{transition: all 1s;cursor: pointer;}
+        .perfil:hover{filter: blur(5px);}
+           
+        .sapataria{transition: all 1s;cursor: pointer;}
+        .sapataria:hover{filter: drop-shadow(15px 10px 5px  #771612);}
+
+        .post{transition: all 1s;cursor: pointer;}
+        .post:hover{filter: drop-shadow(15px 10px 5px  #771612);}
+
+        .sabrina{transition: all 1s;cursor: pointer;}
+        .sabrina:hover{filter: drop-shadow(15px 10px 5px  #771612);}
+
+        .caelendario{transition: all 1s;cursor: pointer;}
+        .calendario:hover{transform: scale(1.4);}
+
+        .folder{transition: all 1s;cursor: pointer;}
+        .folder:hover{transform: scale(1.4);}
+
+        .revista{transition: all 1s;cursor: pointer;}
+        .revista:hover{transform: scale(1.4);}
+
+        .capa{transition: all 1s;cursor: pointer;}
+        .capa:hover{transform: scale(1.4);}
+
+        .videos{transition: all 1s;cursor: pointer;}
+        .videos:hover{filter: drop-shadow(15px 10px 5px  #771612);}
+
+        .break{transition: all 1s;cursor: pointer;}
+        .break:hover{transform: scale(1.4);}
+
+        .kids{transition: all 1s;cursor: pointer;}
+        .kids:hover{transform: scale(1.4);}
+
+        .dobem{transition: all 1s;cursor: pointer;}
+        .dobem:hover{transform: scale(1.4);}
+
+        
+
+      
+
+
+           
